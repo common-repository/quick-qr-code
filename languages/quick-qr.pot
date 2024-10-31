@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-04-17 18:26+0600\n"
+"PO-Revision-Date: 2022-04-17 18:26+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html;esc_html__\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: public/class-quick_qr-public.php\n"
+"X-Poedit-SearchPath-2: admin/class_quickcode_vcard.php\n"
+"X-Poedit-SearchPath-3: admin/class-quick_qr-admin.php\n"
+"X-Poedit-SearchPath-4: admin/class-quick-qr-metavlue.php\n"
+"X-Poedit-SearchPath-5: admin/index.php\n"
+"X-Poedit-SearchPath-6: admin/quickcode_shortcode_func.php\n"
+"X-Poedit-SearchPath-7: admin/review.php\n"
+"X-Poedit-SearchPath-8: quick-qrcode.php\n"
+"X-Poedit-SearchPath-9: admin/metadata\n"
+
+#: admin/class-quick-qr-metavlue.php:52
+msgid "Quick QR Code (Pro fetaures)"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:126
+msgid "Settings"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:140
+#: includes/elements/quickcode_elements.php:14
+msgid "Quick QR"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:164 admin/class-quick_qr-admin.php:246
+msgid "Live Demo"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:167 admin/class-quick_qr-admin.php:249
+msgid "Dashboard Demo"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:170 admin/class-quick_qr-admin.php:252
+msgid "Get Pro"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:173 admin/class-quick_qr-admin.php:255
+msgid "Docs"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:177 admin/class-quick_qr-admin.php:258
+msgid "Contact Us"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:181 admin/class-quick_qr-admin.php:262
+msgid "More Plugins"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:187
+msgid "Quick QR Code Bulk Print (PRO)"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:188 admin/class-quick_qr-admin.php:271
+msgid "Create a Quick QR code"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:197
+msgid "Print Settings(PRO)"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:200
+msgid "Print Page(PRO)"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:270 admin/review.php:2
+msgid "Quick QR Code"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:284
+msgid "QR Settings"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:303
+msgid "Main Options"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:304
+msgid "QR Size"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:308
+msgid "Enter a numeric value, e.g: 300"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:315
+msgid "Margin"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:320
+#: includes/elements/quickcode_elements.php:296
+msgid "Enter a numeric value, e.g: 10"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:343 admin/class-quick_qr-admin.php:445
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:352
+msgid "Upgrade to QR Premium"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:354
+msgid "Gradient Color QR Code"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:355
+msgid "Gradient Color Corenrs Eye Irish"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:356
+msgid "Gradient Color Corenrs Eye Pupil "
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:357
+msgid "Circle, Classy,Square Style QR Code"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:358
+msgid "Solid Color QR"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:359
+msgid "Logo/image Upload"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:361
+msgid "Custom URL or Text QR"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:363
+msgid "Google Loaction QR Code"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:364
+msgid "Whatsapp Chat QR"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:366
+msgid "Wifi Access QR"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:368
+msgid "Shortcode with Attribute Supported"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:369
+msgid "Bulk vCard Generator"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:370
+msgid "QR Bulk Print based on Post type"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:371
+msgid "Unlimited Update (\"Plus\" & \"Infinite\")"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:372
+msgid "Premium support & Many more"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:375
+msgid "Premium Dashboard Demo"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:378
+msgid "Benefits of a QR Code With Logo"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:382
+msgid "Associate your products with brand"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:383
+msgid "Boost Website Traffic"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:384
+msgid "Create a Social Proof"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:385
+msgid "Draw Customers to Your Brand"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:386
+msgid "Advertise Event Management"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:387
+msgid "Consumers easily jump to your brand "
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:389
+msgid "Get Premium"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:406
+msgid "Display Setting"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:412
+msgid "Current Page URL Shortcode"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:413
+msgid ""
+"Copy the short code and paste it in the desired place of your site and see "
+"the QR code"
+msgstr ""
+
+#: admin/class-quick_qr-admin.php:432
+msgid "vCard QR"
+msgstr ""
+
+#: admin/class_quickcode_vcard.php:33
+msgid "Select Post type for Enable vCard Metabox (PRO)"
+msgstr ""
+
+#: admin/class_quickcode_vcard.php:36
+msgid "Display After The Content(Automatically) (PRO)"
+msgstr ""
+
+#: admin/class_quickcode_vcard.php:44
+msgid ""
+"Since this is a premium feature, you can see how it works by post type, "
+"click and save the post type and go to posts and see the vcard meta box "
+"options"
+msgstr ""
+
+#: admin/class_quickcode_vcard.php:49
+msgid "These vCard QR codes are generated and displayed based on the post type"
+msgstr ""
+
+#: admin/review.php:2
+msgid "Thank you for using"
+msgstr ""
+
+#: admin/review.php:3
+msgid "Please give us a 5 star "
+msgstr ""
+
+#: admin/review.php:3
+msgid "review on "
+msgstr ""
+
+#: admin/review.php:3
+msgid "wordpress.org"
+msgstr ""
+
+#: admin/review.php:3
+msgid " to help us spread the word!  "
+msgstr ""
+
+#: includes/class-quick_qr-elemnetor.php:200
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: includes/class-quick_qr-elemnetor.php:201
+#: includes/class-quick_qr-elemnetor.php:225
+#: includes/class-quick_qr-elemnetor.php:250
+msgid "quick_QR Elementor"
+msgstr ""
+
+#: includes/class-quick_qr-elemnetor.php:202
+#: includes/class-quick_qr-elemnetor.php:226
+msgid "Elementor"
+msgstr ""
+
+#: includes/class-quick_qr-elemnetor.php:224
+#: includes/class-quick_qr-elemnetor.php:249
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: includes/class-quick_qr-elemnetor.php:251
+msgid "PHP"
+msgstr ""
+
+#: includes/class-quick_qr-elemnetor.php:289
+msgid "quickcode QR"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:33
+#: includes/elements/quickcode_elements.php:40
+msgid "Quick QR Elements"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:41
+msgid "Choose QR Elements form this dropdown"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:45
+msgid "Current Url"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:46
+msgid "Custom Link (Pro)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:47
+msgid "WhatsApp (Pro)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:48
+msgid "Google Map (Pro)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:49
+msgid "Email (Pro)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:50
+msgid "Phone Number (Pro)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:51
+msgid "Wifi Access (Pro)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:52
+msgid "Contact info(Vcard)(Pro)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:61
+msgid "Name:"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:72
+msgid "Company:"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:83
+msgid "Sub Title:"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:94
+msgid "Mobile Number:"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:105
+msgid "Phone Number:"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:115
+msgid "Email:"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:126
+msgid "Website:"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:136
+msgid "Address:"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:147
+msgid "Note:"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:159
+msgid "Phone Number"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:161
+#: includes/elements/quickcode_elements.php:173
+msgid "+15623526019"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:162
+msgid "Type Phone Number here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:171
+msgid "WhatsApp Number"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:174
+msgid "Type WhatsApp Number here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:183
+msgid "Email"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:185
+msgid "sharabindu.bakshi@gmail.com"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:186
+msgid "Type Email here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:196
+msgid "Wifi Name"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:198
+msgid "Uwifi"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:199
+msgid "Type Wifi name here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:208
+msgid "Wifi Type"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:210
+#: includes/elements/quickcode_elements.php:222
+msgid "WPA"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:211
+msgid "Type Wifi Type here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:220
+msgid "Wifi Password"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:223
+msgid "Type Wifi Password here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:232
+msgid "latitude"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:234
+msgid "24.2015042"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:235
+msgid "Type latitude here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:244
+msgid "longitude"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:246
+msgid "88.9968031"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:247
+msgid "Type longitude here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:256
+msgid "Query"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:258
+msgid "Sharabindu Bakshi"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:259
+msgid "Type Query here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:268
+msgid "Custom Link"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:270
+msgid "https://quickqr.sharabindu.com/"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:271
+msgid "Type Custom Link here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:282
+msgid "QR Width"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:283
+msgid "input a Square Value(width X height)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:285
+msgid "300"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:286
+msgid "Type QR Width here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:382
+msgid "QR Dot Color (Pro)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:397
+msgid "Color (Pro)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:411
+msgid "Second Color (Pro)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:527
+#: includes/elements/quickcode_elements.php:655
+msgid "QR Dot Color"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:543
+#: includes/elements/quickcode_elements.php:669
+msgid "Color"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:557
+#: includes/elements/quickcode_elements.php:683
+msgid "Second Color"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:737
+msgid "Image Options (PRO)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:746
+msgid "Enable Logo?"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:748
+#: includes/elements/quickcode_elements.php:823
+msgid "Show"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:749
+#: includes/elements/quickcode_elements.php:824
+msgid "Hide"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:759
+msgid "Logo Image"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:814
+msgid "Download Button (PRO)"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:821
+msgid "Enable Download Button?"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:833
+msgid "Button Label"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:835
+msgid "Download QR"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:836
+msgid "Type Button Label here"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:899
+msgid "Download Button Background"
+msgstr ""
+
+#: includes/elements/quickcode_elements.php:914
+msgid "Download Button Color"
+msgstr ""

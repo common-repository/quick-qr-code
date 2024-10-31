@@ -1,0 +1,2 @@
+(function($){function quickcodePost(){$(document).ready(function(){"use strict";$('#downloadbuton2').click(function(){var image=document.querySelector("#quickcodePost canvas").toDataURL("image/png").replace("image/png","image/octet-stream");this.setAttribute("href",image)})})}
+quickcodePost()})(jQuery);(function($){$(document).ready(function(){"use strict";$('#downloadbuton').click(function(){var image=document.querySelector("#quickcodeWoo canvas").toDataURL("image/png").replace("image/png","image/octet-stream");this.setAttribute("href",image)})})})(jQuery)
